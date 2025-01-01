@@ -1,4 +1,7 @@
-group 'com.mjohnsullivan.flutterwear.wear'
+android {
+    namespace 'com.mjohnsullivan.flutterwear.wear'
+    // Other configurations
+}
 version '1.0-SNAPSHOT'
 
 buildscript {
